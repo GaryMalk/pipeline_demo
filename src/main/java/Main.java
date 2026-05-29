@@ -1,7 +1,7 @@
 public class Main {
     static void main() {
 
-        String greeting = "Hello and welcome to the pipeline demo!";
+        String greeting = "Hello & welcome to the pipeline demo!";
         IO.println(greeting);
         IO.println(truncateString(greeting, 17));
     }
